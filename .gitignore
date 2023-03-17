@@ -1,2 +1,3 @@
 venv_microblog
 __pycache__
+app.db
